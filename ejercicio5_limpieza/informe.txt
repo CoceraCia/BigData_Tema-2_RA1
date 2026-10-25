@@ -1,0 +1,18 @@
+------------------- REPORT -------------------
+Original rows: 310
+Rows after cleaning: 276
+Removed rows: 34
+
+Problems found and fixed:
+  - Duplicados: 10
+  - Valores nulos: 17
+  - Fechas inválidas: 5
+  - Valores negativos: 10
+  - Totales incorrectos: 8
+  - Outliers: 5
+
+Descriptive statistics (clean data):
+        cantidad  precio_unitario   total
+mean        3.04            48.07  143.04
+median      3.00            25.50   99.60
+std         1.38            42.13  142.38
